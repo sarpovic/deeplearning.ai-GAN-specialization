@@ -27,4 +27,5 @@ The GAN Specialization on Coursera contains three courses:
 - Build a comprehensive knowledge base and gain hands-on experience in GANs. Train your own model using PyTorch, use it to create images, and evaluate a variety of advanced GANs.
 
 
-## [You can use CS236G Generative Adversarial Networks (GANs) site (by Stanford University)](https://cs236g.stanford.edu/#previous-course-staff)
+## Additional Resources
+[You can use CS236G Generative Adversarial Networks (GANs) site (by Stanford University)](https://cs236g.stanford.edu/#previous-course-staff)
