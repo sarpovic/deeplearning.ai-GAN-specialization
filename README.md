@@ -28,4 +28,5 @@ The GAN Specialization on Coursera contains three courses:
 
 
 ## Additional Resources About GANs !
-[You can use CS236G Generative Adversarial Networks (GANs) site (by Stanford University)](https://cs236g.stanford.edu/#previous-course-staff)
+1. [You can use CS236G Generative Adversarial Networks (GANs) site (by Stanford University)](https://cs236g.stanford.edu/#previous-course-staff)
+2. [GAN — GAN Series (from the beginning to the end)](https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b) by @jhui
