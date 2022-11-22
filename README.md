@@ -10,7 +10,7 @@ The GAN Specialization on Coursera contains three courses:
 
 3. [Course 3: Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
 
-## [You can use CS236G Generative Adversarial Networks (GANs) site (by Stanford University)](https://cs236g.stanford.edu/#previous-course-staff)
+
 
 ## About GANs
 
@@ -120,3 +120,5 @@ The GAN Specialization on Coursera contains three courses:
 - Implement CycleGAN, an unpaired image-to-image translation model, to adapt horses to zebras (and vice versa) with two GANs in one.
 - Assignment:
 	- [CycleGAN](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C3%20-%20Apply%20Generative%20Adversarial%20Network%20(GAN)/Week%203/C3W3_Assignment.ipynb)
+
+## [You can use CS236G Generative Adversarial Networks (GANs) site (by Stanford University)](https://cs236g.stanford.edu/#previous-course-staff)
