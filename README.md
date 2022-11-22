@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/95493251/203354575-ae52720b-91dc-4180-b9ff-5567e37a4b32.png)
+![image](![image](https://user-images.githubusercontent.com/95493251/203358131-7a369eb8-0642-4b9d-9d74-f0d054d67f81.png))
 
 ## Courses
 
